@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background: #d0f0ff;
+    font-family: sans-serif;
+}
+#gameCanvas {
+    display: block;
+    margin: 0 auto;
+    background: #b5e7a0;
+    border: 4px solid #333;
+}
+#messageBox {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
